@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        body{
+            display: grid;
+            width: 80%;
+            height: 1000px;
+            grid-template-areas:
+            'header header header'
+            'nav contentss side'
+            'nav footer footer';
+            grid-template-columns: 80px 4fr 80px;
+            grid-template-rows:80px 2fr 80px;
+
+            
+            /* grid-template-areas:
+            'header header header'
+            'nav contentss side'
+            'nav footer footer';
+            grid-template-columns: 200px 4fr 80px;
+            grid-template-rows: 80px 2fr 80px; */
+        }
+    
+        .inside{
+    
+            width:100%;
+            border:solid blue;
+            
+            
+           
+            
+        }
+    
+        header{
+            grid-area: header;
+            
+           
+        }
+        nav{
+            grid-area: nav;
+        }
+        main{
+            grid-area: contentss;
+        }
+    
+        aside{
+           grid-area: side;
+            
+        }
+    
+        footer{
+            grid-area: footer;
+        }
+    
+    
+    
+    </style>
+
+</head>
+
+
+
+<body>
+    
+
+<header class="inside">header</header>
+<nav class="inside">nav</nav>
+<main class="inside">contentss</main>
+<aside class="inside">side</aside>
+<footer class="inside">footer</footer>
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

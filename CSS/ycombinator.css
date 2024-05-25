@@ -1,0 +1,122 @@
+.navs{
+    height: 150px;
+    width: 100%;
+    background: red;
+}
+
+
+/* .container{
+    width: 100%;
+    height: 520px;
+    background: green;
+} */
+
+ /* .container1{
+    width: 100%;
+    height: 520px;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    
+    
+  
+    
+    
+    
+    
+}  */
+
+/* .container1-0{
+    width:70% ;
+    height: 520px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    column-gap: 30px;
+    
+    
+    background: purple;
+  
+   
+ 
+    
+    
+
+} */
+
+.container1-0{
+    
+    
+    background: purple;
+    display: flex;
+    flex-direction: row;
+    height: 520px;
+    width: 40%;
+    background-image: url("/IMAGES/Y2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+   
+    
+    
+
+}
+
+.container1-1{
+    height: 520px;
+    width:40%;
+    background: wheat;
+    
+    
+   
+   
+    
+    
+    
+
+
+}
+
+
+
+
+
+/* .container1-2{
+    height: 520px;
+    width: 44%;
+    background: green;
+    background-image: url(/IMAGES/Y2.jpeg);
+    background-repeat: no-repeat;
+    
+
+    
+    
+  
+ 
+    
+   
+
+    
+    
+} */
+
+/* .in1-1{
+    height: 200px;
+    width: 800px;
+    background: orange;
+    position: absolute;
+    right: 40%;
+} */
+
+.bodies{
+    height: 100vh;
+    width: 100%;
+background: blue;
+display: flex;
+justify-content: center;
+}
+

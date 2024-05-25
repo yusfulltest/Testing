@@ -1,0 +1,44 @@
+#parent{
+    display: grid;
+    width: 70%;
+    background: yellow;
+    border: solid green 1px;
+    grid-template-areas:
+    'header header'
+    ' contentss sidebar '
+    ' twins twin'
+    'footer footer';
+    row-gap: 2px;
+    
+    
+}
+
+.inner{
+    height: 150px;
+    /* width: 50%; */
+    border:solid red 1px;
+    
+}
+
+header{
+    grid-area:header;
+}
+main{
+    grid-area:contentss ;
+}
+
+aside{
+    grid-area: sidebar;
+}
+
+.twins{
+    grid-area:twins;
+}
+.twin{
+    grid-area: twin;
+}
+
+footer{
+    grid-area: footer;
+}
+

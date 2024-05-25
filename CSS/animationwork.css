@@ -1,0 +1,89 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.body-wrap{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+main{
+    width: 100vw;
+    height: 300px;
+    background: gray;
+    overflow-x: hidden;
+}
+.main-1-wrap{
+    height: 100px;
+    width: 300px;
+    overflow-y: scroll;
+    margin-left: 10px;
+    animation-name: container1;
+    /* animation-delay: 2s; */
+    animation-duration: 3s;
+    animation-iteration-count:0;
+    border: solid green;
+}
+
+
+/* ///////////////SECTION///////// */
+
+.contm{
+    /* height: 500px; */
+    
+    
+}
+
+
+
+
+
+
+
+@keyframes container1{
+    0%{
+        background: blue;
+        /* margin-left: 10px; */
+        /* position:relative ; */
+
+        /* left: 1%; */
+ 
+ 
+ 
+ 
+    }
+
+    30%{
+        background: yellow;
+        
+        position:relative ;
+        left: 82%;
+    }
+
+    60%{
+        background: orange;
+        
+        position:relative ;
+        top: 66%;
+    }
+
+    80%{
+        background: purple;
+        transform: rotate(10deg);
+        position:relative ;
+       right: 0%;
+    }
+
+    /* 100%{
+        background:green ;
+    } */
+
+}
+
+
+
+
+

@@ -1,0 +1,344 @@
+body{
+    background:rgb(244, 244, 245);
+}
+#edgebackground{
+    background:rgb(71, 155, 209) ;
+    width:2300px;
+    padding: 100px 30px 0px;
+    margin-left: -10px;
+    margin-top:-15px;
+    background-image: url("https://dnschecker.org/themes/common/images/general/logo.svg");
+    background-position:200px 40px ;
+    background-repeat: no-repeat;
+    background-size: 250px;
+    
+    
+}
+
+#linebar{
+    width: 1900px;
+    background:rgb(52, 58, 66);
+    border-radius:17px 17px 2px 2px;
+    padding: 13px;
+    margin-left: 150px;
+    
+
+}
+
+
+.linebar2{
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+
+.linebartext{
+color: white;
+text-decoration: none;
+font-size: large;
+
+}
+
+.linebartext:hover{
+    background:rgb(245, 176, 0);
+    color: black;
+    padding: 13px;
+    padding-right: 20px;
+    border-radius: 6px 6px 0px 0px;
+    
+    
+}
+
+#location{
+    color:rgb(224, 98, 97) ;
+    margin-left: 1000px;
+
+}
+
+#location2{
+    color:rgb(248, 164, 0);
+    font-size: large;
+}
+
+#resolved{
+    margin-left: 20px;
+    color: rgb(167, 199, 70);
+    font-size: x-large;
+}
+
+#not{
+    margin-left: 20px;
+    font-size: x-large;
+    color: rgb(211, 50, 66);
+}
+
+
+#linediv{
+    height:1300px ;
+    width: 730px;
+    background:rgb(255, 255, 255);;
+    border-radius: 10px;
+    margin-top: -190px; 
+    margin-left: 170px;
+       
+}
+
+#worddiv{
+    margin-left: 915px;
+    
+
+}
+
+#middlediv{
+    height: 600px;
+    width: 1000px;
+    background:white;
+    margin-top: -700px;
+    margin-left: 740px;
+    border-radius:10px ;
+    background-image: url("/IMAGES/DNSChecker_Map_1708868470132.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#innermiddlediv{
+    margin-top: 430px;
+    margin-left: 320px;
+}
+
+
+#dnscheck{
+    color:rgb(46, 79, 137);
+    font-size: 22px;
+    padding: 20px 20px;
+    margin-bottom:-25px;
+    
+    
+}
+
+.firstrow{
+    display: inline-block;
+}
+
+
+#example{
+    margin-left: -20px;
+    background: rgb(239, 239, 239);
+    height: 55px;
+    width: 400px;
+    border-radius: 5px;
+    font-size: medium;
+    border:rgb(239, 239, 239);
+    display: inline-block;
+    padding: 0px 15px;
+    
+   }
+
+#select{
+    height: 55px;
+    width: 120px;
+    border-radius: 5px;
+    
+}
+
+#buton{
+    height: 53px;
+    width: 130px;
+    border-radius: 6px;
+    background:linear-gradient(rgb(43, 76, 169),rgb(65, 140, 200));
+    margin-left: 3px;
+    
+}
+
+#ref{
+color: white;
+text-decoration: none;
+font-size: 17px;
+padding: 10px;
+    }
+
+.line2{
+    display: inline-block;
+    margin-top: -5px;
+}
+
+.line3{
+    margin-left: 45px;
+    margin-top: -30px;
+    font-size: large;
+    
+    
+    
+}
+
+#settings{
+    padding: 12px;
+    background:rgb(70, 157, 207);
+    border: none;
+    color:white;
+    border-radius: 4px;
+    margin-left: -20px;
+    
+    
+}
+
+    #add{
+        padding: 12px;
+        background: rgb(196, 196, 196);
+        border: none;
+        border-radius: 4px;
+        margin-left: 5px;
+        
+        }
+  #check{
+    margin-left:5px;
+    height: 26px;
+    width: 26px;
+    padding-bottom: 11px;
+    border-radius: 4px;
+    border: none;
+    background: rgb(196, 196, 196);
+    
+    
+  }
+
+#CD{
+
+    
+    margin-left:10px ;
+    font-size: larger;
+}
+
+#check2{
+    margin-left: 280px;
+    height: 26px;
+    width: 26px;
+    padding-bottom: 11px;
+    border-radius: 4px;
+    border: none;
+    background: rgb(196, 196, 196);
+}
+
+#box{
+    height: 30px;
+    width: 50px;
+    border-color: rgb(239, 239, 239);
+    border-radius: 5px;
+    background:rgb(239, 239, 239);
+
+}
+
+.sec{
+    
+    margin-left: 10px;
+font-size:large;
+}
+
+#propa{
+    
+   
+    font-family: "Segoe UI";
+    font-weight: 600;
+    font-size: 28px;
+    color:#343a40;
+}
+
+#checkdns{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-size: 22px;
+}
+
+#menu{
+    padding: 10px 20px;
+    background: white;
+    border-radius: 5px;
+    margin-left: 420px;
+}
+
+#txt1{
+    font-family:"Segoe UI" ;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: justify;
+    
+}
+
+.innerdiv1{
+    
+    height: 80px;
+    width: 693px;
+    margin-left: 20px;
+    
+
+}
+
+
+.image1{
+    display:inline-block ;
+    height: 25px;
+    width: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+   
+}
+
+.img{
+    border-radius: 4px;
+}
+
+.blues{
+    color: rgb(59, 132, 255);
+    margin-left: 620px;
+     
+   
+}
+
+
+
+.blues2{
+    color: rgb(59, 132, 255);
+    margin-left: 655px;
+    margin-top:-19px;
+    font-size: 20px;
+   
+}
+
+.open{
+    margin-top: -8px;
+    
+}
+
+.info{
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+    color: rgb(187, 187, 187);
+}
+
+
+.innerdiv1:hover{
+    background:rgb(219, 220, 216) ;
+    
+}
+
+hr{
+    margin-top: 10px;
+}
+
+/* hr{
+    width: 693px;
+    margin-top: -2px;
+    margin-right: 10px;
+}
+     */
+
+    
+
+
+/* ::placeholder{
+    color: white;
+} */
+
+

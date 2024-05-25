@@ -1,0 +1,1654 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: 100vw ;
+    overflow-x: hidden;
+   
+    
+
+
+}
+
+.bodywrap {
+
+    width:100vw;
+    /* height: 5000px; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+ overflow-x:hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+   
+
+
+
+}
+
+nav{
+    width: 100vw;
+    height: 80px;
+}
+
+.nav-header{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+
+}
+
+.top-black-line{
+width: 100vw;
+height: 30px;
+background: rgb(17, 39, 61);
+}
+
+.top-black-line-text{
+/* padding-left: 30%; */
+text-align: center;
+}
+
+#new {
+
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+
+
+
+}
+
+#arrow {
+    font-size: 10px;
+}
+
+/* ///////////////// */
+
+
+.top-linebar{
+width: 100vw;
+height: 50px;
+display: flex;
+background: rgb(242, 254, 243);
+text-wrap: nowrap;
+}
+
+.top-linebar-left{
+    width: 50vw;
+    height: 50px;
+    
+}
+
+.top-linebar-left-text{
+  display: flex;
+  padding-left: 50px;
+
+}
+
+.left-list{
+    margin-left: -20px;
+}
+
+#paystackimage{
+    width: 130px;
+    padding-top: 15px;
+}
+
+
+li {
+    display: inline;
+    padding: 5px;
+  
+
+}
+
+
+.textcolor {
+    color: black;
+    text-decoration: none;
+
+    
+}
+
+.dropdown{
+    font-size: 10px;
+}
+
+
+
+/* //////////////////// */
+
+.top-linebar-right{
+    width: 50vw;
+    height: 50px;
+   
+   
+}
+
+.top-linebar-right-text{
+    display: flex;
+    justify-content: end;
+    padding-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+/* //////////////// */
+
+
+
+
+
+.button-design {
+    background: rgb(80, 183, 90);
+
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.create {
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.butt-wrap{
+    padding-left: 15px;
+    padding-top: 8px;
+}
+
+.flag-wrap{
+    padding: 20px;
+}
+
+#naija-flag {
+    width: 25px;
+
+}
+
+.optionbar{
+    font-size: 25px;
+}
+
+.optionbar-media{
+    display: none;
+padding-top: 20px;
+
+}
+
+
+
+
+/* ///////////CONTAINER2///////// */
+.container2 {
+    width: 100vw;
+    height: 630px;
+    
+    /* background: rgb(242, 254, 244); */
+    
+    
+    
+    
+    
+   
+}
+
+.contianer2-1{
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    background: rgb(242, 254, 244);
+    
+    
+    
+   
+  
+   
+}
+
+.insidecontainer2-1{
+width:100vw;
+height: 500px;
+display: flex;
+justify-content:end;
+align-items: center;
+
+
+
+
+
+
+}
+
+
+
+
+.insidecontainer2-1-text{
+
+    width: 550px;
+    height: 300px;
+    padding-right: 25px;
+    /* background: rgb(242, 254, 244); */
+  
+    
+      
+    
+}
+
+
+
+.background-image{
+    /* width: 1000px; */
+    width: 50vw;
+    height: 500px;
+    /* background: rgb(242, 254, 244); */
+    background-image: url("/IMAGES/background.svg");
+    background-repeat: no-repeat;
+    background-size: cover 15rem;
+    background-position-x: 10%;
+ 
+    
+    
+}
+
+
+
+
+
+.modern{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 30px;
+    width: 530px;
+    
+    
+}
+
+.parag-paystack{
+    width: 500px;
+}
+
+.parag{
+    font-size: 20px;
+}
+
+.butts2{
+    background: rgb(80, 183, 90);
+
+    width: 210px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    display: inline;
+}
+
+.sales{
+    font-size: 15px;
+    color: rgb(54, 178, 38);
+    font-weight: 600;
+    text-decoration: none;
+    /* padding-left: 10%; */
+}
+
+/* ///////////Foot1//////// */
+
+.foot1{
+    width: 100vw;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+  background: rgb(242, 254, 244);
+    
+   
+}
+
+.trust{
+    margin-left: -40px;
+}
+
+.trusted{
+width: 600px;
+height: 100px;
+padding-right: 40px;
+/* background: yellow; */
+
+
+}
+
+
+
+.logos{
+    height: 28px;
+  
+}
+
+.watch{
+    
+    height: 100px;
+    text-align: end;
+    padding-top: 20px;
+    padding-left: 60px;
+    line-height: 10px;
+    font-weight: 500;
+    
+    }
+
+    .watch-text{
+        width: 450px;
+
+        padding-right: 10px;
+    }
+
+    .playdiv{
+       
+       
+    }
+
+    .playbuts{
+       
+    color: white;
+        background: rgb(58, 165, 221);
+        
+        text-align: center;
+        padding: 13px;
+        border-radius: 50%;
+        font-size: 12px;
+        margin-right: 20px;
+    }
+
+
+    /* ////////////////CONTAINER3/////// */
+
+.main2{
+width: 100vw;
+height: 1350px;
+/* background: purple; */
+
+}
+
+
+.container3{
+width: 100vw;
+display: flex;
+flex-direction: row;
+flex-wrap:wrap;
+justify-content: center;
+
+
+
+
+
+
+
+}
+
+.insidecontainer3-1{
+    height: 250px;
+    width: 100vw;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   flex-wrap: nowrap;
+   
+   
+   
+   
+   
+}
+
+
+.simple{
+    width: 500px;
+    height: 150px;
+
+   
+
+}
+
+.empty{
+    width: 670px;
+    height: 150px;
+    
+}
+
+
+
+.main-insidecontainer3-2and3-3{
+    width: 100vw;
+    height:750px ;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    column-gap: 50px;
+    padding-left: 30px;
+    /* background: green; */
+
+}
+
+.main-insidecontainer3-2and3-3-wrap{
+    width: 100vw;
+    height:750px ;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    column-gap: 30px;
+    
+}
+
+
+
+.insidecontainer3-2-media{
+    width: 650px;
+    height: 750px;
+    background-image: url("https://assets.paystack.com/assets/img/content/Collect-Payments-for-Multiple-Channels-1.1.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+
+.insidecontainer3-2{
+    background: rgb(248, 255, 255);
+    width: 650px;
+    height: 750px;
+    
+    
+    
+    
+}
+
+
+
+.insidecontainer3-3{
+    width: 650px;
+    height: 750px;
+    /* padding-left:20px ; */
+    
+   
+    
+}
+
+.container3-text-wrap{
+    width: 600px;
+    height: 720px;
+    
+   
+}
+
+.container3-text{
+    /* width: 0px; */
+    width: 85%;
+    
+}
+
+.container3-text1{
+    width: 80%;
+}
+
+.delight{
+    font-size: 37px;
+    font-weight: 800;
+}
+
+
+tr,td,table{
+    margin-left: -10px;
+   width: 500px;
+   height: 40px;
+   font-weight: 600;
+}
+
+.mark{
+    font-size: 15px;
+    color: rgb(80, 183, 90);
+    background: rgb(242, 254, 244);
+    padding: 8px 13px;
+    border-radius: 5px;
+    font-weight:800;
+}
+
+/* /////////////4 AND 5///////// */
+
+.thirdmain{
+    width: 100vw;
+    height: 750px;
+    /* background: red; */
+
+}
+
+.main-insidecontainer3-4and3-5{
+    width: 100vw;
+    height: 730px;
+    display: flex;
+     flex-wrap: nowrap;
+     justify-content: center;
+     
+    
+ 
+    
+}
+
+
+.insidecontainer3-4{
+    height: 730px;
+    /* width: 35vw; */
+    width: 650px;
+    
+ 
+  
+    
+}
+
+.container3-4text1{
+    width: 74%;
+    padding-left:20px;
+   
+}
+
+.paragdevelopers{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.collectspace{
+    width: 95%;
+}
+
+.smallparag{
+    font-weight: 600;
+}
+
+
+
+
+
+.insidecontainer3-5{
+    height: 600px;
+    width: 550px;
+    
+    background-image: url("https://assets.paystack.com/assets/img/content/_800x714_crop_center-center_82_line/Robust-Suite-of-APIs-Opt.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    
+    
+    /* padding-right: 20px; */
+    /* background-position: center ; */
+    /* background: red; */
+    /* padding-right: 20px; */
+
+    
+    
+    
+}
+    
+
+
+/* ////////6 and 7///////////// */
+
+.lastmain{
+    width: 100vw;
+    height: 770px;
+    /* background: blue; */
+}
+
+.main-insidecontainer3-6and3-7{
+    width: 100vw;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+   
+ 
+}
+
+.container3-6{
+    width: 500px;
+    height: 650px;
+    display: flex;
+    padding-left: 20px;
+ 
+}
+
+
+
+.insidecontainer3-6{
+    height: 600px;
+    
+    width: 40vw;
+    background-image: url("/IMAGES/paystack2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+   
+    
+    
+    
+   
+
+    
+}
+
+
+
+.insidecontainer3-7{
+    height: 600px;
+    width: 700px;
+    display: flex;
+    justify-content: right; 
+   ;
+   
+    
+   
+    
+}
+
+.container3-7text{
+    
+    width: 79%;
+ 
+    
+}
+
+.container3-7text1{
+    width: 85%;
+}
+
+
+.container3-7text2{
+    width: 83%;
+    padding-top: 30px;
+}
+
+/* .lastparag{
+    width: 100%;
+} */
+
+
+/* //////////////////Nextmain//////// */
+
+/* .nextmain{
+
+} */
+
+.main3{
+    width: 100vw;
+    height: 900px;
+    
+
+   
+}
+
+.insidemain3{
+    width: 100vw;
+    height: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgb(235, 246, 252);
+    
+}
+
+
+.insidemain3-1{
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    padding-right: 300px ;
+    
+
+    
+   
+}
+
+.insidemain3-1text{
+    width: 700px;
+    height: 250px;
+    /* background: green; */
+    padding-top: 130px;
+   
+    
+
+    
+    
+}
+
+
+
+
+.blank{
+width: 200px;
+height: 250px;
+/* background: red; */
+}
+
+
+.businesses{
+    width: 80%;
+}
+
+.thousands{
+    width: 95%;
+
+}
+
+.insidemain3-2{
+    width: 100vw;
+    height: 350px;
+    display: flex;
+   justify-content: center;
+    
+    /* padding-left: 20%; */
+}
+
+.insidemain3-2-text{
+    width: 1200px;
+    height: 450px;
+    display: flex;
+    column-gap: 10px;
+    
+    /* background: red; */
+}
+
+.for-media{
+    width: 1200px;
+    height: 450px;
+    display: flex;
+    column-gap: 10px;
+
+}
+
+.global{
+    /* width:33% ; */
+    width: 400px;
+    height: 330px;
+    border-radius: 5px;
+   
+    padding-top: 30px;
+padding-left: 25px;
+    background: white;
+   
+   
+    
+}
+
+
+
+
+
+.maps{
+    width: 100px;
+  
+}
+
+.globaltext{
+   
+}
+
+.globaltext1{
+    font-size: 24px;
+    width: 50%;
+   
+}
+
+.wehelp{
+   
+    width: 80%;
+    line-height: 24px;
+}
+
+
+.globaltext2{
+    font-size: 24px;
+    
+}
+
+.globaltext3{
+   
+    width: 80%;
+}
+
+.large{
+    margin-top: -15px;
+}
+
+
+.rights{
+   
+    color: green;
+    background: white;
+    padding:4px ;
+    border-radius: 50%;
+    border: solid green 1px;
+    font-size: 10px;
+} 
+
+
+/* ////////// */
+
+.foot{
+    height: 100px;
+}
+
+/* //////////////////////////////MEDIA QUERY START HERE//////////// */
+
+@media(max-width:1250px){
+
+    .top-linebar-left-text{
+        
+        padding-left: 10px;
+      
+      }
+
+
+    .top-linebar-right-text{
+        
+        padding-right: 0px;
+    }
+
+
+    .insidecontainer2-1{
+        width:100vw;
+        height: 500px;
+        display: flex;
+        justify-content:start;
+        align-items: center;
+        
+    
+        
+        }
+        
+        
+        .insidecontainer2-1-text{
+        
+            width: 550px;
+            height: 300px;
+           padding-left: 20px;
+              
+            
+        }
+        
+        
+        .foot1{
+            width: 100vw;
+            height: 130px;
+            display: flex;
+            justify-content: space-between;
+          background: rgb(242, 254, 244);
+            
+           
+        }
+        
+        .trusted{
+            width: 600px;
+            height: 100px;
+            padding-left: 20px;
+
+            
+            
+            }
+            
+            
+        
+            
+                .watch-text{
+                    width: 450px;
+            
+                    padding-right: 20px;
+                }
+
+
+            
+
+                .insidecontainer3-1{
+                    height: 300px;
+                    width: 100vw;
+                   padding-top: 50px;
+                   padding-bottom: 50px;
+                   display: flex;
+                   justify-content:center;
+                   align-items: center;
+                   flex-wrap: nowrap;
+     
+                   
+                }
+
+
+      
+                .main-insidecontainer3-2and3-3{
+                    width: 100vw;
+                    height:750px ;
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: nowrap;
+                    column-gap: 50px;
+                    padding-left: 30px;
+                    
+                
+                }
+                
+                .main-insidecontainer3-2and3-3-wrap{
+                    width: 100vw;
+                    height:750px ;
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: nowrap;
+                    column-gap: 30px;
+                    
+                }
+                
+                
+                
+                .insidecontainer3-2-media{
+                    width: 50vw;
+                    height: 750px;
+                    background-image: url("https://assets.paystack.com/assets/img/content/Collect-Payments-for-Multiple-Channels-1.1.gif");
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    
+                }
+                
+                
+                
+                .insidecontainer3-2{
+                    background: rgb(248, 255, 255);
+                    width: 50vw;
+                    height: 750px;
+                    
+                    
+                    
+                    
+                }
+                
+                
+                
+                .insidecontainer3-3{
+                    width: 50vw;
+                    height: 750px;
+             
+                   
+                   
+                    
+                }
+                
+                .container3-text-wrap{
+                    width: 600px;
+            
+                    height: 720px;
+                   
+                    
+                   
+                }
+
+                .paragdelight{
+                    
+                }
+
+
+                
+                
+                .simple{
+                    width: 60vw;
+                    height: 150px;
+
+                
+                }
+
+                .simple-test{
+                    padding-left: 20px;
+                }
+                
+                .empty{
+                    width: 500px;
+                    height: 150px;
+                    
+                    
+                }
+
+        
+                
+                
+                
+                .insidecontainer3-6{
+                    height: 600px;
+                    width: 40vw;
+                    background-image: url("/IMAGES/paystack2.png");
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: left; 
+                    
+                   
+                
+                    
+                }
+                
+                
+                
+                .insidecontainer3-7{
+                    height: 600px;
+                    width: 700px;
+                    display: flex;
+                    justify-content: right;
+                   
+                
+                   
+                    
+                }
+                
+                
+
+
+                
+               
+                .insidemain3{
+                    width: 100vw;
+                    height: 900px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    background: rgb(235, 246, 252);
+                    
+                }
+                
+                
+                .insidemain3-1{
+                    width: 100vw;
+                    height: 250px;
+                    display: flex;
+                    justify-content: start;
+                  
+                   
+                    
+                
+                    
+                   
+                }
+                
+                .insidemain3-1text{
+                    width: 500px;
+                    
+                    height: 250px;
+                    padding-top: 130px;  
+                    padding-left: 20px; 
+                    
+                }
+
+                .blank{
+                    
+                    width: 0px;
+                    height: 250px;
+                  
+                    }
+
+                
+                    
+                    .thousands{
+                        width: 95%;
+                    
+                    }
+
+
+                    .insidemain3-2-text{
+                       
+                        width: 100vw;
+                        height: 450px;
+                        display: flex;
+                        justify-content: center;
+                    
+                       
+                    }
+
+                    .for-media{
+                        width: 97vw;
+                        height: 450px;
+                        display: flex;
+                        justify-content: center;
+                        column-gap: 10px;
+                        
+                        
+                    }
+                    
+                    .global{
+                        
+                        width: 370px;
+                        height: 330px;
+                        border-radius: 5px;
+                       
+                        padding-top: 30px;
+                    padding-left: 25px;
+                        background: white;
+                       
+                       
+                        
+                    }
+
+                    
+}
+
+
+@media(max-width:1100px){
+
+    
+    
+
+    .top-linebar-left{
+        width: 50vw;
+        height: 50px;
+        
+        
+    }
+    
+    .top-linebar-left-text{
+      display: flex;
+      padding-left: 10px;
+    
+    }
+
+
+    .top-linebar-right{
+        width: 50vw;
+        height: 50px;
+       
+       
+    }
+    
+    .top-linebar-right-text{
+     width: 50vw;
+     padding-left:10px ;
+       
+    }
+    
+    .container3-text-wrap{
+        width: 50vw;
+        height: 720px;
+        
+        
+       
+    }
+
+    .container3-text{
+        /* width: 500px; */
+        width: 95%;
+        
+    }
+    
+    .container3-text1{
+        width: 95%;
+    }
+
+
+}
+
+
+@media(max-width:980px){
+    .optionbar-media{
+        display: inline;
+    padding-top: 20px;
+    padding-right: 40px;
+    
+    }
+
+   .left-list{
+    display: none;
+   }
+
+.li-inline{
+display: none;
+}
+
+.butt-wrap{
+    display: none;
+}
+
+.flag-wrap{
+    display: none;
+}
+
+
+nav{
+    width: 100vw;
+    height: 90px;
+ 
+}
+
+.nav-header{
+    width: 100vw;
+    height: 90px;
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+
+
+}
+
+.top-linebar{
+    height: 58px;
+    width: 150vw;
+   
+   
+}
+
+
+.container2 {
+    width: 100vw;
+    height: 630px;
+    
+    background: rgb(242, 254, 244);
+    
+   
+}
+
+.contianer2-1{
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    background-image: url("/IMAGES/background.svg");
+    background-repeat: no-repeat;
+    background-size: cover 15rem;
+    background-position-x: 400px;
+}
+
+
+
+
+
+
+.background-image{
+    
+    width: 50vw;
+    height: 500px;
+   
+    background-image: none;
+    
+ 
+    
+    
+}
+
+
+
+.trust{
+    width: 40vw;
+    
+}
+
+.watch{
+   width: 65vw;
+    height: 100px;
+    text-align: end;
+    padding-top: 20px;
+    line-height: 10px;
+    font-weight: 500;
+   
+    
+    }
+
+    .watch-text{
+        width: 47vw;
+        padding-right: 20px;
+    }
+
+table{
+    width: 50vw;
+    /* background: yellow; */
+}
+   
+
+    .global{
+        /* width: 280px; */
+        width: 35vw;
+        height: 420px;
+        /* background: red; */
+    }
+
+}
+
+
+@media(max-width:800px){
+
+    /* .insidemain3-1{
+        width: 100vw;
+        height: 250px;
+        display: flex;
+        justify-content: center;
+        padding-right: 200px ;
+        
+       
+    }
+
+.insidemain3-1text{
+    width: 85vw; */
+
+
+    
+
+.blank{
+    display: none;
+    width: 200px;
+    height: 250px;
+    /* background: red; */
+    }
+
+   
+    
+    
+    
+    .insidecontainer3-3{
+        width: 60vw;
+        height: 750px;
+ 
+       
+       
+        
+    }
+    
+    .container3-text-wrap{
+        width: 60vw;
+
+        height: 720px;
+       
+        
+       
+    }
+
+    .container2{
+        height: 630px;
+    }
+
+    .foot1{
+        position: relative;
+        top: -80px;
+        
+    }
+
+    .trust{
+        width: 30vw;
+        
+        
+    }
+
+    
+    .watch{
+       width: 65vw;
+        height: 100px;
+        text-align: end;
+        padding-top: 20px;
+        line-height: 10px;
+        font-weight: 500;
+        
+       
+        
+        }
+    
+        .watch-text{
+            width: 60vw;
+            position: relative;
+            right: 20px;
+            top: 50px;
+           
+        }
+
+
+        .container2 {
+            width: 100vw;
+            height: 630px;
+            
+           
+        }
+
+       
+
+        .insidecontainer2-1-text{
+
+            width: 550px;
+            height: 270px;
+            padding-right: 25px;
+          
+            
+        }
+
+     
+
+        
+        .contianer2-1{
+            width: 100vw;
+            height: 500px;
+            background-image:url("/IMAGES/background.svg") ;
+            background-repeat: no-repeat;
+            background-size:contain   ;
+            background-position: top;   
+           
+        }
+
+
+        .thirdmain{
+            width: 100vw;
+            height: 1000px;
+            /* background: red; */
+        
+        }
+
+        .lastmain{
+            height: 900px;
+        }
+
+        .container3-7text1{
+            width: 100%;
+        }
+        
+        
+        .container3-7text2{
+            width: 100%;
+            padding-top: 30px;
+        }
+
+        .main3{
+            width: 100vw;
+            height: 950px;
+           
+            
+        }
+
+.insidemain3{
+    width: 100vw;
+    height: 950px;
+    display: flex;
+    /* align-content: baseline; */
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    background: rgb(235, 246, 252);
+    
+}
+
+
+.insidemain3-1{
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    padding-right: 20px ;
+    
+
+    
+   
+}
+
+.insidemain3-1text{
+    width: 100vw;
+    height: 250px;
+
+    padding-top: 0px;
+    padding-left: 20px;
+   
+    
+    
+}
+
+
+
+.businesses{
+    width: 60%;
+   
+}
+
+.thousands{
+    width: 60%;
+
+}
+
+
+.insidemain3-2{
+    width: 100vw;
+    height: 350px;
+    display: flex;
+   justify-content: center;
+   position: relative;
+   bottom: 130px;
+    
+}
+
+.insidemain3-2-text{
+    /* width: 1200px; */
+    width: 80vw;
+    height: 450px;
+    display: flex;
+    column-gap: 10px;
+    padding: 10px;
+    
+    /* background: red; */
+}
+
+.for-media{
+    width: 100vw;
+    height: 450px;
+    display: flex;
+    column-gap: 10px;
+
+}
+
+.global{
+    /* width: 280px; */
+    width: 28vw;
+    height: 420px;
+    /* background: red; */
+}
+
+
+
+
+
+
+
+.maps{
+    width: 100px;
+  
+}
+
+.globaltext{
+   
+}
+
+.globaltext1{
+    font-size: 24px;
+    width: 50%;
+   
+}
+
+.wehelp{
+   
+    width: 80%;
+    line-height: 24px;
+}
+
+
+.globaltext2{
+    font-size: 24px;
+    
+}
+
+.globaltext3{
+   
+    width: 80%;
+}
+
+.large{
+    margin-top: -15px;
+}
+
+
+/* .rights{
+   
+    color: green;
+    background: white;
+    padding:4px ;
+    border-radius: 50%;
+    border: solid green 1px;
+    font-size: 10px;
+}  */
+
+
+
+}
+
+
+/* ///////////FOOTER///////
+
+footer{
+width: 100vw;
+height: 500px;
+}
+
+.realfoot{
+    width: 100vw;
+    height: 500px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+   gap: 10px;
+    
+    
+}
+
+.addresses{
+    width: 270px;
+    height: 250px;
+    background: yellow;
+}
+
+.icons{
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.stripe{
+
+    margin-top: -20px;
+}

@@ -1,0 +1,442 @@
+body{
+    padding: 30px;
+    margin: 0px;
+    background: rgb(249, 242, 224);
+    width: 100%;
+}
+
+.navcontainer1{
+width: 100%;
+height: 70px;
+
+
+
+
+}
+
+.insidecontainer1-0{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: blue;
+}
+
+.insidecontainer1-1{
+    width: 10%;
+    height: 60px;
+    text-align: end;
+    background: yellow
+
+    
+    }
+
+    .taxi{
+       
+       width: 150px;
+       /* height: 130px; */
+        
+    }
+
+    .links{
+        text-decoration: none;
+        color: black;
+    }
+
+   
+    .insidecontainer1-2{
+        width: 65%;
+        height: 60px;
+        background: red;
+        
+        
+        
+        }
+
+        .lines{
+            margin-left: 50px;
+        }
+
+        li{
+            display: inline-block;
+            margin-left: 30px;
+            font-size: 18px;
+           
+           
+        }
+
+        
+  
+
+ 
+
+.insidecontainer1-3{
+width: 15%;
+height: 60px;
+/* background: yellow; */
+
+display: flex;
+flex-direction: row;
+/* justify-content: end; */
+
+
+}
+
+.linebarlinks{
+    text-decoration: none;
+    color: black;
+}
+
+.loginlinebar{
+    /* width: 50px; */
+   font-size: 18px;
+   margin-top: 15px;
+   margin-left: 60px;
+   
+ 
+}
+
+.butts{
+    width: 150px;
+   height: 40px;
+    background: rgb(251, 220, 11);
+    color: black;
+    border-radius: 40px;
+    margin-top: 2px;
+   font-size: 12px;
+   margin-left: 20px;
+  
+  
+}
+
+.linebarsign{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/* ///////////Container2 here///////// */
+.container2{
+    width: 100%;
+    height: 950px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgb(54, 178, 38);
+
+}
+
+.insidecontainer2{
+width: 85%;
+height:800px;
+column-gap: 10px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+/* background: rgb(54, 178, 38); */
+}
+
+.contianer2-1{
+    /* width: 650px; */
+    width: 48%;
+    height: 600px;
+    /* background: blue; */
+   
+
+   
+    
+}
+
+.container2-1-1{
+    
+    padding-left: 10%;
+    padding-top: 5%;
+    
+}
+
+.decline{
+    width: 100%;
+    font-size: 65px;
+    font-weight: 700;
+    color: white;
+}
+
+.seyhello{
+    font-size: 30px;
+    font-weight: 400;
+    /* width: 50%; */
+    
+    /* width:550px; */
+    line-height: 36px;
+    color: white;
+    /* text-wrap: nowrap; */
+    
+}
+
+.contianer2-2{
+    /* width: 600px; */
+    width: 50%;
+    height: 550px;
+    /* background: red; */
+    border-top-right-radius: 10px;
+    background-image: url("https://assets-global.website-files.com/652c6f02e4e95fb82f3ccaf9/661c8b38df05be3fa79355c9_DECLINE-THE-BANK.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.backed{
+   
+position: relative;
+top: 30px;
+padding-left: 10%;
+}
+
+.back{
+    color: white;
+    margin-right: 10px;
+}
+
+.simple{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+
+.signup{
+    padding-left: 10%;
+    /* font-size: 35px; */
+}
+
+.sign{
+    width: 140px;
+    height: 35px;
+    position: relative;
+    top: 70px;
+    border-radius: 20px;
+    font-size: 20px;
+    background: rgb(251, 220, 11);
+}
+
+.learn{
+    width: 130px;
+    height: 35px;
+    position: relative;
+    top: 70px;
+    border-radius: 20px;
+}
+
+.details{
+    width: 370px;
+    height: 40px;
+    position: relative;
+    top: 150px;
+    padding-left: 50px;
+    color: white;
+}
+
+.here{
+    color: white;
+}
+
+/* //////////CONTAINER3////////// */
+.container3{
+    width: 1100px;
+    height: 600px;
+    background: white;
+    position: relative;
+    right: 50px;
+    bottom: 200px;
+    border: solid black;
+    border-radius: 10px;
+    display:flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   
+     
+}
+
+.insidecontainer3-1{
+/* width: 50%; */
+width: 550px;
+height: 315px;
+display: flex;
+flex-direction: column;
+/* background: red; */
+}
+
+.yourrate{
+    width: 100%;
+    height: 315px;
+  text-align: center;
+   
+    /* background: yellow; */
+    margin-top: 80px;
+    
+}
+
+.rate{
+    font-size: 45px;
+}
+
+.pa0{
+    /* margin-top: -50px; */
+    width: 100%;
+   /* text-align: center; */
+    
+}
+
+.pa{
+    width: 100%;
+    height: 40px;
+    font-size: 45px;
+    font-weight: 700;
+    
+    text-align: center
+
+}
+
+/* //////////////////////////// */
+
+.insidecontainer3-2{
+/* width: 50%; */
+width: 550px;
+height: 350px;
+/* background: green; */
+}
+
+.maxi{
+    width: 100%;
+    height: 70px;
+    border-bottom: solid black 1px;
+    
+}
+
+.updated{
+    width: 95%;
+    margin-top: 30px;
+    text-align: end;
+    
+}
+
+.maximum{
+    margin-left: 120px;
+    font-size: 18px;
+   
+}
+
+.inmaxi{
+    width: 100%;
+    height: 20px;
+    padding-top: 50px;
+    /* background: blue; */
+}
+
+.maxi1{
+    font-size: 18px;
+}
+
+.west{
+font-size:32px ;
+margin-left: -20px;
+}
+
+.maximum1{
+margin-left: 200px;
+font-size:32px ;
+font-weight: 700;
+}
+
+.inmaxi1{
+    padding: 30px;
+}
+
+.maximum2{
+    margin-left: 240px;
+font-size:32px ;
+font-weight: 700;
+}
+
+.inmaxi2{
+    width: 100%;
+    height: 20px;
+    padding-top: 10px;
+}
+
+.maxi2{
+    font-size: 18px;
+    margin-right:130px ;
+}
+
+.maximum3{
+    margin-right: 40px;
+}
+
+/* //////////////////////////// */
+
+.insidecontainer3-3{
+    width: 100%;
+    height: 30px;
+    /* background: red; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexi{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* background: blue; */
+}
+
+.marks{
+    width: 30%;
+    height: 60px;
+    /* background: red; */
+
+}
+
+.markslogo{
+    width: 25px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+/* ///////////////////////// */
+
+.container4{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background: purple; */
+}
+
+.insidecontainer4{
+width: 40%;
+height: 50px;
+display: flex;
+flex-direction: row;
+
+}
+
+.more{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.more1{
+    color: black;
+    font-weight: 400;
+
+}

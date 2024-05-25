@@ -1,0 +1,97 @@
+table,td{
+    border:solid black;
+    height:50px;
+    width: 1000px;
+    border-collapse: collapse;
+}
+
+td,tr{
+    border:solid black;
+
+}
+
+/* Pictures and background design start from here */
+
+#osimhenpics{
+    height: 280px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 10%;
+}
+#osimbackground{
+    background: red;
+}
+
+#martinezpics{
+    height: 280px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 10%;
+}
+#martinebackground{
+    background: blue;
+}
+
+#rashfordpics{
+    height: 280px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 10%;
+}
+#rashfordbackground{
+    background: green;
+}
+
+#kanepics{
+    height: 280px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 10%;
+}
+#kanebackground{
+    background: yellow;
+}
+
+/* #manucrest{
+    height: 180px;
+    width: 100%;
+} */
+#manucrestbackground{
+    background-image:url("/IMAGES/Manchester_United_FC_crest.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+   background-attachment:fixed;
+   
+
+
+}
+
+/* The following are the background color inside each box */
+
+.top{
+    background: blue;
+}
+
+.left{
+    background: red;
+}
+
+.down{
+    background: green;
+}
+
+.right{
+    background: yellow;
+}
+
+body{
+    background-image: url("/IMAGES/Kane.jpg");
+    background-repeat: repeat;
+    background-position:center;
+    /* background-attachment: fixed; */
+}
+
+#mydiv{
+    border-style: ;
+    border-color: ;
+}

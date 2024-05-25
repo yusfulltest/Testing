@@ -1,0 +1,83 @@
+#parent{
+    margin:100px 400px;
+    display: grid;
+    width: 40%;
+    height: 600px;
+    padding: 20px;
+    background: rgb(53, 54, 66);
+    grid-template-areas:
+    'myheader  myheader myheader'
+    'mysidebar mycontent1 mycontent1'
+    'mysidebar mycontent2 mycontent3'
+    'myfooter myfooter myfooter' ;
+
+    grid-template-columns: 150px 1fr 1fr;
+    grid-template-rows: 100px 1fr 1fr 100px;
+    row-gap: 10px;
+    column-gap: 10px;
+
+}
+
+.inner{
+    
+    background: yellow;
+    border: solid black;
+
+    
+   
+}
+
+header{
+    grid-area: myheader;
+    
+}
+
+aside{
+    grid-area: mysidebar;
+    
+    
+}
+
+.main1{
+    grid-area: mycontent1;
+}
+
+.main2{
+    grid-area:mycontent2 ;
+}
+main{
+    grid-area:mycontent3 ;
+}
+
+footer{
+    grid-area: myfooter;
+}
+
+.inner:nth-last-child(6){
+    background:rgb(119, 97, 223) ;
+}
+
+
+.inner:nth-last-child(1)
+{
+    background:  rgb(119, 97, 223);
+}
+
+.inner:nth-last-child(5)
+{
+    background: rgb(87, 207, 199);
+}
+
+.inner:nth-last-child(4)
+{
+background: rgb(91, 109, 232);
+}
+
+.inner:nth-last-child(2){
+background:rgb(91, 109, 232)
+}
+
+.inner:nth-last-child(3)
+{
+    background: rgb(91, 109, 232);
+}
